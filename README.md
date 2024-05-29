@@ -1,4 +1,4 @@
-# Movie-Application
+# Movie-Application(NYRANFLIX) by NURAN RAMAZANLI
 
 Welcome to the Movie Application! This application is built using cutting-edge technologies such as React, Tailwind CSS, Vite, Redux, Redux Toolkit, Redux Persist, React Scroll, React Router DOM, React Icons, React Infinite Scroll Component, React Lazy Load Image Component, React Player, React Select, React Toastify, and the TMDB API. With these powerful tools, we've created a feature-rich movie browsing experience for you to enjoy.
 
