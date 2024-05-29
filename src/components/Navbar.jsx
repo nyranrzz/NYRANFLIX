@@ -43,7 +43,7 @@ const Navbar = () => {
           <section className="w-full flex items-center justify-start gap-10 sm:gap-14">
             <section className="font-bold text-2xl flex items-center gap-2">
               <BiMoviePlay className="bg-pink p-[6px] rounded-full text-4xl" />
-              <Link to="/">TMDB</Link>
+              <Link to="/">NYRANFLIX</Link>
             </section>
             <ul className="hidden sm:flex items-center justify-center gap-5 sm:gap-10 font-semibold text-lg">
               <li
@@ -84,13 +84,13 @@ const Navbar = () => {
                 className="relative cursor-pointer"
                 onMouseOver={() => handleCategory("people")}
               >
-                <span>People</span>
+                <span>Actors</span>
                 {selectedCategory === "people" && (
                   <ul
                     className="bg-white w-52 h-fit text-black font-normal flex flex-col items-start justify-start gap-2 absolute top-9 z-50 py-4 px-6 rounded"
                     onMouseLeave={() => setSelectedCategory(null)}
                   >
-                    <Link to="/person/popular">Popular People</Link>
+                    <Link to="/person/popular">Popular Actors</Link>
                   </ul>
                 )}
               </li>

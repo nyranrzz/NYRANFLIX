@@ -16,7 +16,7 @@ const Footer = () => {
               <section className="flex items-start justify-start gap-20">
                 <ul className="flex flex-col items-start gap-2">
                   <h1 className="font-bold text-xl sm:text-2xl uppercase mb-2">
-                    TMBD
+                    NYRANFLIX
                   </h1>
                   <li className="font-semibold text-base sm:text-lg capitalize">
                     For you
@@ -58,7 +58,7 @@ const Footer = () => {
                     className="bg-[#333436] p-2 w-10 h-10 sm:w-12 sm:h-12 rounded-full cursor-pointer"
                     onClick={() =>
                       window.open(
-                        "https://twitter.com/PritamGhosh010",
+                        "https://x.com/autholixx",
                         "_blank"
                       )
                     }
@@ -67,7 +67,7 @@ const Footer = () => {
                     className="bg-[#333436] p-2 w-10 h-10 sm:w-12 sm:h-12 rounded-full cursor-pointer"
                     onClick={() =>
                       window.open(
-                        "https://www.linkedin.com/in/pritam-ghosh-dev/",
+                        "https://www.linkedin.com/in/nuran-ramazanl%C4%B1-5b1a17281/",
                         "_blank"
                       )
                     }
@@ -76,7 +76,7 @@ const Footer = () => {
                     className="bg-[#333436] p-2 w-10 h-10 sm:w-12 sm:h-12 rounded-full cursor-pointer"
                     onClick={() =>
                       window.open(
-                        "https://github.com/PrtHub/Movie-Application",
+                        "https://github.com/nyranrzz",
                         "_blank"
                       )
                     }
@@ -87,7 +87,7 @@ const Footer = () => {
             <hr />
             <div className="w-full flex items-center justify-between gap-10 mt-10">
               <span className="text-gray-400 text-sm">
-                Copyright &copy; 2023 TMBD. All rights reserved.
+                Copyright &copy; 2024 NYRANFLIX. All rights reserved. Created by Nuran Ramazanli
               </span>
               <BiMoviePlay className="bg-pink p-[6px] rounded-full text-4xl" />
             </div>

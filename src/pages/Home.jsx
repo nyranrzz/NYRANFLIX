@@ -6,7 +6,7 @@ import { Hero, TrendingMovie, TrendingPeople, TrendingTv } from "../container";
 const Home = () => {
   return (
     <>
-    <SEO title="The Movie Database (TMDB)"/>
+    <SEO title="NYRANFLIX"/>
       <section>
         <Hero />
         <TrendingMovie />
