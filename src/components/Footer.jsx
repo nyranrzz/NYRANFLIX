@@ -87,7 +87,7 @@ const Footer = () => {
             <hr />
             <div className="w-full flex items-center justify-between gap-10 mt-10">
               <span className="text-gray-400 text-sm">
-                Copyright &copy; 2024 NYRANFLIX. All rights reserved. Created by Nuran Ramazanli
+                Copyright &copy; 2024 NYRANFLIX. All rights reserved. Created by Nuran Ramazanli & Fidann🫶🏼
               </span>
               <BiMoviePlay className="bg-pink p-[6px] rounded-full text-4xl" />
             </div>
